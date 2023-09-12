@@ -1,0 +1,14 @@
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\obj\Debug\trabalho_pratico_3.vbproj.AssemblyReference.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\obj\Debug\trabalho_pratico_3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\obj\Debug\trabalho_pratico_3.Form1.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\obj\Debug\trabalho_pratico_3.form_configure_port.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\obj\Debug\trabalho_pratico_3.Resources.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\obj\Debug\trabalho_pratico_3.vbproj.GenerateResource.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\obj\Debug\trabalho_pratico_3.vbproj.CoreCompileInputs.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\bin\Debug\trabalho_pratico_3.exe.config
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\bin\Debug\trabalho_pratico_3.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\bin\Debug\trabalho_pratico_3.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\bin\Debug\trabalho_pratico_3.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\obj\Debug\trabalho_pratico_3.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\obj\Debug\trabalho_pratico_3.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_03\trabalho_pratico_3\trabalho_pratico_3\obj\Debug\trabalho_pratico_3.pdb

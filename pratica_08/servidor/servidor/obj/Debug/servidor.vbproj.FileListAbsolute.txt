@@ -1,0 +1,43 @@
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\bin\Debug\servidor.exe.config
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\bin\Debug\servidor.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\bin\Debug\servidor.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\bin\Debug\servidor.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\obj\Debug\servidor.vbproj.AssemblyReference.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\obj\Debug\servidor.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\obj\Debug\servidor.Form1.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\obj\Debug\servidor.Resources.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\obj\Debug\servidor.vbproj.GenerateResource.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\obj\Debug\servidor.vbproj.CoreCompileInputs.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\obj\Debug\servidor.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\obj\Debug\servidor.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\servidor\servidor\obj\Debug\servidor.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\bin\Debug\servidor.exe.config
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\bin\Debug\servidor.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\bin\Debug\servidor.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\bin\Debug\servidor.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.vbproj.AssemblyReference.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\Interop.FaconSvr.dll
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.vbproj.ResolveComReference.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.Form1.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.Resources.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.vbproj.GenerateResource.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.vbproj.CoreCompileInputs.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.pdb
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\bin\Debug\servidor.exe.config
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\bin\Debug\servidor.exe
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\bin\Debug\servidor.pdb
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\bin\Debug\servidor.xml
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.vbproj.AssemblyReference.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\Interop.FaconSvr.dll
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.vbproj.ResolveComReference.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.Form1.resources
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.Resources.resources
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.vbproj.GenerateResource.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.vbproj.CoreCompileInputs.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.exe
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.xml
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_08\servidor\servidor\obj\Debug\servidor.pdb

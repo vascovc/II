@@ -1,0 +1,60 @@
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\bin\Debug\trabalho_5.exe.config
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\bin\Debug\trabalho_5.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\bin\Debug\trabalho_5.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\bin\Debug\trabalho_5.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.vbproj.AssemblyReference.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.Form1.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.Resources.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.vbproj.GenerateResource.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.vbproj.CoreCompileInputs.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.Form2.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.show_form.resources
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\bin\Debug\trabalho_5.exe.config
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\bin\Debug\trabalho_5.exe
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\bin\Debug\trabalho_5.pdb
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\bin\Debug\trabalho_5.xml
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.vbproj.AssemblyReference.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.Form1.resources
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.Form2.resources
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.Resources.resources
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.show_form.resources
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.vbproj.GenerateResource.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.vbproj.CoreCompileInputs.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.exe
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.xml
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\trabalho_5\obj\Debug\trabalho_5.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\bin\Debug\trabalho_5.exe.config
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\bin\Debug\trabalho_5.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\bin\Debug\trabalho_5.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\bin\Debug\trabalho_5.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.vbproj.AssemblyReference.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.Form1.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.Resources.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.vbproj.GenerateResource.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.vbproj.CoreCompileInputs.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\Interop.FaconSvr.dll
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.vbproj.ResolveComReference.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\bin\Debug\trabalho_5.exe.config
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\bin\Debug\trabalho_5.exe
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\bin\Debug\trabalho_5.pdb
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\bin\Debug\trabalho_5.xml
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.vbproj.AssemblyReference.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\Interop.FaconSvr.dll
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.vbproj.ResolveComReference.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.Form1.resources
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.Resources.resources
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.vbproj.GenerateResource.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.vbproj.CoreCompileInputs.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.exe
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.xml
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_06\trabalho_6\obj\Debug\trabalho_5.pdb

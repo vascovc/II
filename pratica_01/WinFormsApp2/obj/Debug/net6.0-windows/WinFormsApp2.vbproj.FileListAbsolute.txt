@@ -1,0 +1,17 @@
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.AssemblyReference.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.GenerateResource.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.vb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_1\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll

@@ -1,0 +1,107 @@
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\bin\Debug\PLCSimulator.exe.config
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\bin\Debug\PLCSimulator.exe
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\bin\Debug\PLCSimulator.pdb
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\bin\Debug\PLCSimulator.xml
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.vbprojResolveAssemblyReference.cache
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.Form1.resources
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.FormComPortConfiguration.resources
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.Resources.resources
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.vbproj.GenerateResource.Cache
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.vbproj.CoreCompileInputs.cache
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.exe
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.xml
+D:\AulasUA\II_2017-2018\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.pdb
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\bin\Debug\PLCSimulator.exe.config
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\bin\Debug\PLCSimulator.exe
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\bin\Debug\PLCSimulator.pdb
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\bin\Debug\PLCSimulator.xml
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.vbprojAssemblyReference.cache
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.Form1.resources
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.FormComPortConfiguration.resources
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.Resources.resources
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.vbproj.GenerateResource.cache
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.vbproj.CoreCompileInputs.cache
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.vbproj.CopyComplete
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.exe
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.xml
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator\PLCSimulator\obj\Debug\PLCSimulator.pdb
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\bin\Debug\PLCSimulator.exe.config
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\bin\Debug\PLCSimulator.exe
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\bin\Debug\PLCSimulator.pdb
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\bin\Debug\PLCSimulator.xml
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.vbprojAssemblyReference.cache
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.Form1.resources
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.FormComPortConfiguration.resources
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.Resources.resources
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.vbproj.GenerateResource.cache
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.vbproj.CoreCompileInputs.cache
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.vbproj.CopyComplete
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.exe
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.xml
+D:\AulasUA\InformaticaIndustrial_2018-2019\Pratica\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.pdb
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\bin\Debug\PLCSimulator.exe.config
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\bin\Debug\PLCSimulator.exe
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\bin\Debug\PLCSimulator.pdb
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\bin\Debug\PLCSimulator.xml
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.vbproj.AssemblyReference.cache
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.Form1.resources
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.FormComPortConfiguration.resources
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.Resources.resources
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.vbproj.GenerateResource.cache
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.vbproj.CoreCompileInputs.cache
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.exe
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.xml
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2019-2020\Pratica\2018-2019\Aula5\PLCSimulator_2018_2019\PLCSimulator\obj\Debug\PLCSimulator.pdb
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\PLCSimulator.exe.config
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\PLCSimulator.exe
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\PLCSimulator.pdb
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\PLCSimulator.xml
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.AssemblyReference.cache
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.Form1.resources
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.FormComPortConfiguration.resources
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.Resources.resources
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.GenerateResource.cache
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.CoreCompileInputs.cache
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.exe
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.xml
+C:\Users\jorge\Google Drive\Docência\Informática Industrial 2021-2022\Práticas\Aula 5\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\PLCSimulator.exe.config
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\PLCSimulator.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\PLCSimulator.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\PLCSimulator.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.AssemblyReference.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.Form1.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.FormComPortConfiguration.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.Resources.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.GenerateResource.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.CoreCompileInputs.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.CopyComplete
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.pdb
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\PLCSimulator.exe.config
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\PLCSimulator.exe
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\PLCSimulator.pdb
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\PLCSimulator.xml
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.AssemblyReference.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.Form1.resources
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.FormComPortConfiguration.resources
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.Resources.resources
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.GenerateResource.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.CoreCompileInputs.cache
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.vbproj.CopyComplete
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.exe
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.xml
+C:\Users\Vasco Costa\Documents\MEGAsync\4-2\II\pratica_05\PLCSimulator_2021-2022\PLCSimulator\obj\Debug\PLCSimulator.pdb

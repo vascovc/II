@@ -1,0 +1,13 @@
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\bin\Debug\cliente.exe.config
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\bin\Debug\cliente.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\bin\Debug\cliente.pdb
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\bin\Debug\cliente.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\obj\Debug\cliente.vbproj.AssemblyReference.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\obj\Debug\cliente.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\obj\Debug\cliente.Form1.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\obj\Debug\cliente.Resources.resources
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\obj\Debug\cliente.vbproj.GenerateResource.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\obj\Debug\cliente.vbproj.CoreCompileInputs.cache
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\obj\Debug\cliente.exe
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\obj\Debug\cliente.xml
+C:\Users\Vasco\Documents\MEGAsync\4-2\II\pratica_07\cliente\cliente\obj\Debug\cliente.pdb
